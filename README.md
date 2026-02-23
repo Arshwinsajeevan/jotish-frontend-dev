@@ -33,12 +33,11 @@ Hi there! This is a simple, ready-to-use React app for managing employee data, f
 ### Location Map
 ![Location Map](screenshots/Screenshot%202026-02-23%20162617.png)
 
+
+- The screenshots are added in "screenshots" folder
+
 ---
 
-## 📦 Expected Deliverables
-- [x] **Fully functional source code**: Contained within this repository.
-- [x] **Screenshots**: Highlighting the Login, List, Details, Graph, and Map views (found in `screenshots/`).
-- [ ] **Screen recording**: End-to-end working app recording (to be added by the user).
 
 ## 💡 Quick Tips
 - **Camera**: The app will ask for camera permission when you click "Capture Photo" in the details page. Just click **Allow**!
